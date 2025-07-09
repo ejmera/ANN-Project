@@ -53,3 +53,19 @@ pip install -r requirements.txt
 
 # Run the model
 python 1_model.py
+```
+## 🇹🇷 Türkçe Sürüm
+
+Bu proje, cinsiyet, bölge ve üyelik seviyesi gibi kategorik özelliklere göre müşterileri Yapay Sinir Ağı (ANN) kullanarak sınıflandırmayı amaçlar.
+
+### 🗂️ Proje Yapısı
+- `1_model.py`: ANN modeli ve eğitimi
+- `2_dataset.csv`: Kategorik müşteri veri seti
+
+### 🔧 Kullanılan Teknolojiler
+- Python, TensorFlow/Keras, Pandas, scikit-learn
+
+### 🎯 Amaç
+Kategorik veriler üzerinde ANN eğiterek müşteri segmentasyonu ve sınıflandırması yapmak.
+
+---
