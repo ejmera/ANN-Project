@@ -52,15 +52,15 @@ git clone https://github.com/your-username/customer-classification-ann
 pip install -r requirements.txt
 
 # Run the model
-python 1_model.py
+python ANN.jpynb
 ```
 ## 🇹🇷 Türkçe Sürüm
 
 Bu proje, cinsiyet, bölge ve üyelik seviyesi gibi kategorik özelliklere göre müşterileri Yapay Sinir Ağı (ANN) kullanarak sınıflandırmayı amaçlar.
 
 ### 🗂️ Proje Yapısı
-- `1_model.py`: ANN modeli ve eğitimi
-- `2_dataset.csv`: Kategorik müşteri veri seti
+- `ANN.jpynb`: ANN modeli ve eğitimi
+- `customer_information.csv`: Kategorik müşteri veri seti
 
 ### 🔧 Kullanılan Teknolojiler
 - Python, TensorFlow/Keras, Pandas, scikit-learn
