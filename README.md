@@ -7,7 +7,7 @@
 
 ## 🇬🇧 English Version
 
-This project demonstrates how to classify customers using Artificial Neural Networks (ANN) based on categorical features such as gender, region, and membership level.
+This project demonstrates how to classify customers using Artificial Neural Networks (ANN) based on categorical features such as gender, geography, and age .
 
 ### 📌 Project Overview
 
@@ -55,7 +55,7 @@ python ANN.jpynb
 ```
 ## 🇹🇷 Türkçe Sürüm
 
-Bu proje, cinsiyet, bölge ve üyelik seviyesi gibi kategorik özelliklere göre müşterileri Yapay Sinir Ağı (ANN) kullanarak sınıflandırmayı amaçlar.
+Bu proje, cinsiyet, ülke ve yaş gibi kategorik özelliklere göre müşterileri Yapay Sinir Ağı (ANN) kullanarak sınıflandırmayı amaçlar.
 
 ### 🗂️ Proje Yapısı
 - `ANN.jpynb`: ANN modeli ve eğitimi
