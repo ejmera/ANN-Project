@@ -39,8 +39,7 @@ This project demonstrates how to classify customers using Artificial Neural Netw
 ### 📊 Example Categorical Features
 
 - Gender (Male/Female)
-- Region (North, South, East, West)
-- Membership Type (Bronze, Silver, Gold)
+- Geography (France, Spain, Germany)
 
 ### 🚀 How to Run
 
